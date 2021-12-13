@@ -24,17 +24,17 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color			
-				['Mod Port'],
-			['Aly-Ant',		    'alyant',		    'Ex-concept artist for Funkin the Mountains and porter of the mod',	 'https://twitter.com/Aly_Ant0',	0xFFC30085'],
-			
+		['Mod Port'],
+		['Aly-Ant',    'alyant',        'Artist and Porter of the Mod',	                            'https://twitter.com/Aly_Ant0',	 0xFF150083'],
+		[''],	
 		['Galactic Tea'],
 		['Iccy',		'iccy',		'Good Artist',				            'https://twitter.com/Iccy07',	                0xFF5BCC2E],
 		['Pestana',		'pestana',	'Swag Mod Composer',					'https://twitter.com/xXPestanaXx',	            0xFFFF01C2],
-		['Roaded64',	'roaded64',	'Cool Programmer',				        'https://twitter.com/RoadedOfficial',	        0xFF63D5FF],
-		['Argilite',	'argilite',	'Nice Animator',		                'https://twitter.com/besjfm',	                0xFF392C6F],
-		[''],
+		['Roaded64',    'roaded64',	'Cool Programmer',				        'https://twitter.com/RoadedOfficial',	        0xFF63D5FF],
+		['Argilite',	'argilite',	'Nice Animator',                                        'https://twitter.com/besjfm',	                0xFF392C6F],
+                [''],
 		['Aditional Help'],
-		['JotinhaGB',	'jotinha',	'Bad Art Helper \nJK',			        'https://twitter.com/JaidenGalactic',	        0xFF2F86D8],
+		['JotinhaGB',	    'jotinha',	'Bad Art Helper \nJK',			        'https://twitter.com/JaidenGalactic',	        0xFF2F86D8],
 		['Sael',	    'sael',	    'Concept Artist \ni guess',			    'https://twitter.com/saeeeeeeeeel',         	0xFFFFE062],
 		['Amelia',	    'ambe',	    'Amby Voice Actor',			            'https://twitter.com/ambebelia',         	    0xFFFF4D38],
 		[''],
