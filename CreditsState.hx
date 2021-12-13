@@ -25,7 +25,7 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color			
 		['Mod Port'],
-		['Aly-Ant',    'alyant',        'Artist and Porter of the Mod',	                            'https://twitter.com/Aly_Ant0',	 0xFFC30085'],
+		['Aly-Ant',    'alyant',        'Artist and Porter of the Mod',	                            'https://twitter.com/Aly_Ant0',	 0xFF150083'],
 		[''],	
 		['Galactic Tea'],
 		['Iccy',		'iccy',		'Good Artist',				            'https://twitter.com/Iccy07',	                0xFF5BCC2E],
