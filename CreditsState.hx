@@ -32,7 +32,6 @@ class CreditsState extends MusicBeatState
 		['Pestana',		'pestana',	'Swag Mod Composer',					'https://twitter.com/xXPestanaXx',	            0xFFFF01C2],
 		['Roaded64',    'roaded64',	'Cool Programmer',				        'https://twitter.com/RoadedOfficial',	        0xFF63D5FF],
 		['Argilite',	'argilite',	'Nice Animator',                                        'https://twitter.com/besjfm',	                0xFF392C6F],
-		['Yoisabo',   'yosaibo',   ''Animator and Artist',
                 [''],
 		['Aditional Help'],
 		['JotinhaGB',	    'jotinha',	'Bad Art Helper \nJK',			        'https://twitter.com/JaidenGalactic',	        0xFF2F86D8],
