@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KrysNeon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NEONICE Pose Left0000" x="0" y="0" width="514" height="707" frameX="-10" frameY="-5" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0001" x="0" y="0" width="514" height="707" frameX="-10" frameY="-5" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0002" x="514" y="0" width="509" height="712" frameX="0" frameY="0" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0003" x="514" y="0" width="509" height="712" frameX="0" frameY="0" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0004" x="514" y="0" width="509" height="712" frameX="0" frameY="0" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0005" x="514" y="0" width="509" height="712" frameX="0" frameY="0" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0006" x="514" y="0" width="509" height="712" frameX="0" frameY="0" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0007" x="514" y="0" width="509" height="712" frameX="0" frameY="0" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0008" x="514" y="0" width="509" height="712" frameX="0" frameY="0" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE Pose Left0009" x="514" y="0" width="509" height="712" frameX="0" frameY="0" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="NEONICE DOWN POSE0000" x="1143" y="0" width="344" height="615" frameX="0" frameY="-1" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0001" x="1143" y="0" width="344" height="615" frameX="0" frameY="-1" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0002" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0003" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0004" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0005" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0006" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0007" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0008" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0009" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0010" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0011" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0012" x="375" y="1452" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0013" x="337" y="2907" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0014" x="337" y="2907" width="344" height="616" frameX="-10" frameY="0" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0015" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0016" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0017" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0018" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0019" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0020" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0021" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0022" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0023" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0024" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE DOWN POSE0025" x="1143" y="615" width="140" height="161" frameX="-214" frameY="-249" frameWidth="354" frameHeight="616"/>
+	<SubTexture name="NEONICE Idle0000" x="686" y="2170" width="335" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0001" x="686" y="2170" width="335" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0002" x="0" y="2148" width="345" height="756" frameX="0" frameY="-10" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0003" x="0" y="2148" width="345" height="756" frameX="0" frameY="-10" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0004" x="753" y="1410" width="345" height="760" frameX="-1" frameY="-6" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0005" x="753" y="1410" width="345" height="760" frameX="-1" frameY="-6" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0006" x="345" y="2148" width="341" height="759" frameX="-2" frameY="-7" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0007" x="345" y="2148" width="341" height="759" frameX="-2" frameY="-7" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0008" x="0" y="2904" width="337" height="766" frameX="-3" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0009" x="0" y="2904" width="337" height="766" frameX="-3" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0010" x="1098" y="1410" width="336" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0011" x="1098" y="1410" width="336" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Idle0012" x="1098" y="1410" width="336" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="NEONICE Left Pose0000" x="0" y="1442" width="375" height="706" frameX="-11" frameY="0" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0001" x="0" y="1442" width="375" height="706" frameX="-11" frameY="0" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0002" x="753" y="712" width="390" height="698" frameX="0" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0003" x="753" y="712" width="390" height="698" frameX="0" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0004" x="753" y="712" width="390" height="698" frameX="0" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0005" x="753" y="712" width="390" height="698" frameX="0" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0006" x="753" y="712" width="390" height="698" frameX="0" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0007" x="753" y="712" width="390" height="698" frameX="0" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0008" x="753" y="712" width="390" height="698" frameX="0" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Left Pose0009" x="753" y="712" width="390" height="698" frameX="0" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="NEONICE Up Pose0000" x="378" y="712" width="375" height="740" frameX="-6" frameY="0" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0001" x="378" y="712" width="375" height="740" frameX="-6" frameY="0" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0002" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0003" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0004" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0005" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0006" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0007" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0008" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0009" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0010" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0011" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0012" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0013" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0014" x="0" y="707" width="378" height="735" frameX="0" frameY="-4" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0015" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0016" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0017" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0018" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0019" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0020" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0021" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0022" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0023" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0024" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="NEONICE Up Pose0025" x="0" y="0" width="0" height="0" frameX="-323" frameY="-415" frameWidth="381" frameHeight="740"/>
+</TextureAtlas>

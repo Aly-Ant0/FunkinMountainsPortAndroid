@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Krys_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Krys DOWN POSE0000" x="375" y="1452" width="356" height="640" frameX="0" frameY="51" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0001" x="375" y="1452" width="356" height="640" frameX="0" frameY="51" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0002" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0003" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0004" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0005" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0006" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0007" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0008" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0009" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0010" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0011" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0012" x="1143" y="0" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0013" x="1143" y="616" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0014" x="1143" y="616" width="351" height="640" frameX="-10" frameY="50" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0015" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0016" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0017" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0018" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0019" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0020" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0021" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0022" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0023" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0024" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys DOWN POSE0025" x="337" y="2907" width="147" height="200" frameX="-214" frameY="-199" frameWidth="361" frameHeight="616"/>
+	<SubTexture name="Krys Idle0000" x="686" y="2170" width="335" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0001" x="686" y="2170" width="335" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0002" x="0" y="2148" width="345" height="756" frameX="0" frameY="-10" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0003" x="0" y="2148" width="345" height="756" frameX="0" frameY="-10" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0004" x="753" y="1410" width="345" height="760" frameX="-1" frameY="-6" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0005" x="753" y="1410" width="345" height="760" frameX="-1" frameY="-6" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0006" x="345" y="2148" width="341" height="759" frameX="-2" frameY="-7" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0007" x="345" y="2148" width="341" height="759" frameX="-2" frameY="-7" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0008" x="0" y="2904" width="337" height="766" frameX="-3" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0009" x="0" y="2904" width="337" height="766" frameX="-3" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0010" x="1098" y="1410" width="336" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0011" x="1098" y="1410" width="336" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Idle0012" x="1098" y="1410" width="336" height="766" frameX="-4" frameY="0" frameWidth="346" frameHeight="766"/>
+	<SubTexture name="Krys Left Pose0000" x="0" y="1442" width="375" height="706" frameX="-181" frameY="0" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0001" x="0" y="1442" width="375" height="706" frameX="-181" frameY="0" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0002" x="753" y="712" width="390" height="698" frameX="-170" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0003" x="753" y="712" width="390" height="698" frameX="-170" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0004" x="753" y="712" width="390" height="698" frameX="-170" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0005" x="753" y="712" width="390" height="698" frameX="-170" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0006" x="753" y="712" width="390" height="698" frameX="-170" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0007" x="753" y="712" width="390" height="698" frameX="-170" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0008" x="753" y="712" width="390" height="698" frameX="-170" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Left Pose0009" x="753" y="712" width="390" height="698" frameX="-170" frameY="-3" frameWidth="390" frameHeight="706"/>
+	<SubTexture name="Krys Pose Left0000" x="0" y="0" width="514" height="707" frameX="-10" frameY="26" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0001" x="0" y="0" width="514" height="707" frameX="-10" frameY="26" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0002" x="514" y="0" width="509" height="712" frameX="0" frameY="30" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0003" x="514" y="0" width="509" height="712" frameX="0" frameY="30" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0004" x="514" y="0" width="509" height="712" frameX="0" frameY="30" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0005" x="514" y="0" width="509" height="712" frameX="0" frameY="30" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0006" x="514" y="0" width="509" height="712" frameX="0" frameY="30" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0007" x="514" y="0" width="509" height="712" frameX="0" frameY="30" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0008" x="514" y="0" width="509" height="712" frameX="0" frameY="30" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Pose Left0009" x="514" y="0" width="509" height="712" frameX="0" frameY="30" frameWidth="524" frameHeight="712"/>
+	<SubTexture name="Krys Up Pose0000" x="378" y="712" width="375" height="740" frameX="-6" frameY="-71" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0001" x="378" y="712" width="375" height="740" frameX="-6" frameY="-71" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0002" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0003" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0004" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0005" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0006" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0007" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0008" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0009" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0010" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0011" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0012" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0013" x="0" y="707" width="378" height="735" frameX="0" frameY="-75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0014" x="0" y="707" width="378" height="735" frameX="0" frameY="75" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0015" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0016" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0017" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0018" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0019" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0020" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0021" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0022" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0023" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0024" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+	<SubTexture name="Krys Up Pose0025" x="0" y="0" width="0" height="0" frameX="-323" frameY="-486" frameWidth="381" frameHeight="740"/>
+</TextureAtlas>

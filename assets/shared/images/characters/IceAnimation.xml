@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IceAnimation.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ice Animation0000" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0001" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0002" x="1941" y="0" width="336" height="766" frameX="-8" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0003" x="1941" y="0" width="336" height="766" frameX="-8" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0004" x="1941" y="0" width="336" height="766" frameX="-8" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0005" x="1941" y="0" width="336" height="766" frameX="-8" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0006" x="1252" y="770" width="356" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0007" x="766" y="0" width="410" height="773" frameX="-18" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0008" x="702" y="2783" width="441" height="765" frameX="-14" frameY="-659" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0009" x="702" y="2783" width="441" height="765" frameX="-14" frameY="-659" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0010" x="1608" y="766" width="353" height="765" frameX="-14" frameY="-659" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0011" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0012" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0013" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0014" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0015" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0016" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0017" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0018" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0019" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0020" x="1961" y="766" width="285" height="760" frameX="-14" frameY="-664" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0021" x="1143" y="3002" width="334" height="849" frameX="0" frameY="-574" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0022" x="1143" y="3002" width="334" height="849" frameX="0" frameY="-574" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0023" x="1418" y="1536" width="329" height="822" frameX="-23" frameY="-601" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0024" x="1477" y="3124" width="264" height="923" frameX="-33" frameY="-501" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0025" x="1477" y="3124" width="264" height="923" frameX="-33" frameY="-501" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0026" x="1143" y="1924" width="275" height="1078" frameX="-23" frameY="-346" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0027" x="977" y="773" width="275" height="1151" frameX="-23" frameY="-273" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0028" x="0" y="2844" width="275" height="1213" frameX="-23" frameY="-211" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0029" x="427" y="2816" width="275" height="1263" frameX="-23" frameY="-161" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0030" x="702" y="1421" width="275" height="1362" frameX="-23" frameY="-62" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0031" x="427" y="1421" width="275" height="1395" frameX="-23" frameY="-29" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0032" x="427" y="0" width="339" height="1421" frameX="-24" frameY="-1" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0033" x="0" y="0" width="427" height="1422" frameX="-24" frameY="0" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0034" x="0" y="1422" width="427" height="1422" frameX="-24" frameY="0" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0035" x="1176" y="0" width="410" height="770" frameX="-20" frameY="-659" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0036" x="1586" y="0" width="355" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0037" x="1741" y="3124" width="283" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0038" x="1747" y="1531" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0039" x="1747" y="1531" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0040" x="1747" y="1531" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0041" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0042" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0043" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0044" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0045" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0046" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+	<SubTexture name="Ice Animation0047" x="1477" y="2358" width="335" height="766" frameX="-9" frameY="-656" frameWidth="455" frameHeight="1429"/>
+</TextureAtlas>

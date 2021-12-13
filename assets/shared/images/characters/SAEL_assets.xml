@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SAEL_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SAELCheer0000" x="1371" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0001" x="0" y="0" width="687" height="609"/>
+	<SubTexture name="SAEL Cheer0002" x="0" y="0" width="687" height="609"/>
+	<SubTexture name="SAEL Cheer0003" x="687" y="0" width="684" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0004" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0005" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0006" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0007" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0008" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0009" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0010" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0011" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0012" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0013" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0014" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0015" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0016" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0017" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0018" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0019" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Cheer0020" x="2053" y="0" width="682" height="609" frameX="0" frameY="0" frameWidth="687" frameHeight="609"/>
+	<SubTexture name="SAEL Dancing Beat0000" x="0" y="1119" width="682" height="506" frameX="0" frameY="-8" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0001" x="682" y="609" width="687" height="506" frameX="0" frameY="-8" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0002" x="1369" y="609" width="687" height="506" frameX="0" frameY="-8" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0003" x="3417" y="1029" width="684" height="506" frameX="0" frameY="-8" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0004" x="2056" y="1031" width="682" height="507" frameX="0" frameY="-7" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0005" x="4101" y="1031" width="682" height="507" frameX="0" frameY="-7" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0006" x="6160" y="1530" width="682" height="506" frameX="0" frameY="-8" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0007" x="6839" y="1022" width="682" height="508" frameX="0" frameY="-6" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0008" x="6839" y="1022" width="682" height="508" frameX="0" frameY="-6" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0009" x="6839" y="1022" width="682" height="508" frameX="0" frameY="-6" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0010" x="5478" y="1024" width="682" height="508" frameX="0" frameY="-6" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0011" x="5478" y="1024" width="682" height="508" frameX="0" frameY="-6" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0012" x="4788" y="1026" width="682" height="508" frameX="0" frameY="-6" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0013" x="6842" y="1530" width="682" height="506" frameX="0" frameY="-8" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0014" x="6842" y="1530" width="682" height="506" frameX="0" frameY="-8" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0015" x="6836" y="2531" width="682" height="488" frameX="0" frameY="-26" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0016" x="6149" y="2531" width="687" height="488" frameX="0" frameY="-26" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0017" x="6152" y="2036" width="687" height="495" frameX="0" frameY="-19" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0018" x="5465" y="2037" width="684" height="495" frameX="0" frameY="-19" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0019" x="1364" y="1622" width="682" height="497" frameX="0" frameY="-17" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0020" x="0" y="1625" width="682" height="497" frameX="0" frameY="-17" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0021" x="2046" y="1538" width="682" height="503" frameX="0" frameY="-11" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0022" x="5470" y="1532" width="682" height="505" frameX="0" frameY="-9" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0023" x="5470" y="1532" width="682" height="505" frameX="0" frameY="-9" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0024" x="5470" y="1532" width="682" height="505" frameX="0" frameY="-9" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0025" x="6839" y="510" width="682" height="512" frameX="0" frameY="-2" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0026" x="6839" y="510" width="682" height="512" frameX="0" frameY="-2" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0027" x="6839" y="510" width="682" height="512" frameX="0" frameY="-2" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0028" x="6157" y="0" width="682" height="514" frameX="0" frameY="0" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Dancing Beat0029" x="6157" y="0" width="682" height="514" frameX="0" frameY="0" frameWidth="687" frameHeight="514"/>
+	<SubTexture name="SAEL Down Note0000" x="4099" y="2038" width="682" height="496" frameX="0" frameY="-4" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0001" x="2728" y="2035" width="687" height="496" frameX="0" frameY="-4" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0002" x="2738" y="1535" width="687" height="500"/>
+	<SubTexture name="SAEL Down Note0003" x="3425" y="1538" width="684" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0004" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0005" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0006" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0007" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0008" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0009" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0010" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0011" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0012" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0013" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0014" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0015" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0016" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0017" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0018" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Down Note0019" x="682" y="1622" width="682" height="500" frameX="0" frameY="0" frameWidth="687" frameHeight="500"/>
+	<SubTexture name="SAEL Right Note0000" x="2733" y="2531" width="682" height="492" frameX="0" frameY="-3" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0001" x="1364" y="2119" width="687" height="492" frameX="0" frameY="-3" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0002" x="6839" y="2036" width="687" height="495"/>
+	<SubTexture name="SAEL Right Note0003" x="3415" y="2038" width="684" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0004" x="4781" y="2039" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0005" x="0" y="2122" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0006" x="682" y="2122" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0007" x="682" y="2122" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0008" x="2051" y="2531" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0009" x="2051" y="2531" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0010" x="2051" y="2531" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0011" x="2051" y="2531" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0012" x="2051" y="2531" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0013" x="2051" y="2531" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Right Note0014" x="2051" y="2531" width="682" height="495" frameX="0" frameY="0" frameWidth="687" frameHeight="495"/>
+	<SubTexture name="SAEL Up Note0000" x="4109" y="0" width="682" height="521" frameX="0" frameY="0" frameWidth="687" frameHeight="521"/>
+	<SubTexture name="SAEL Up Note0001" x="2735" y="0" width="687" height="521"/>
+	<SubTexture name="SAEL Up Note0002" x="3422" y="0" width="687" height="519" frameX="0" frameY="-2" frameWidth="687" frameHeight="521"/>
+	<SubTexture name="SAEL Up Note0003" x="4791" y="0" width="684" height="519" frameX="0" frameY="-2" frameWidth="687" frameHeight="521"/>
+	<SubTexture name="SAEL Up Note0004" x="5475" y="0" width="682" height="519" frameX="0" frameY="-2" frameWidth="687" frameHeight="521"/>
+	<SubTexture name="SAEL Up Note0005" x="5475" y="0" width="682" height="519" frameX="0" frameY="-2" frameWidth="687" frameHeight="521"/>
+	<SubTexture name="SAEL Up Note0006" x="5475" y="0" width="682" height="519" frameX="0" frameY="-2" frameWidth="687" frameHeight="521"/>
+	<SubTexture name="SAEL left note0000" x="682" y="1115" width="682" height="507" frameX="0" frameY="-3" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0001" x="4791" y="519" width="687" height="507" frameX="0" frameY="-3" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0002" x="6839" y="0" width="687" height="510"/>
+	<SubTexture name="SAEL left note0003" x="3422" y="519" width="684" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0004" x="6157" y="514" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0005" x="2735" y="521" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0006" x="4106" y="521" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0007" x="4106" y="521" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0008" x="0" y="609" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0009" x="0" y="609" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0010" x="0" y="609" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0011" x="0" y="609" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0012" x="0" y="609" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0013" x="0" y="609" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL left note0014" x="0" y="609" width="682" height="510" frameX="0" frameY="0" frameWidth="687" frameHeight="510"/>
+	<SubTexture name="SAEL sad0000" x="4783" y="1534" width="682" height="505" frameX="0" frameY="-2" frameWidth="682" frameHeight="507"/>
+	<SubTexture name="SAEL sad0001" x="4783" y="1534" width="682" height="505" frameX="0" frameY="-2" frameWidth="682" frameHeight="507"/>
+	<SubTexture name="SAEL sad0002" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0003" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0004" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0005" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0006" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0007" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0008" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0009" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0010" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0011" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0012" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0013" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0014" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0015" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0016" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0017" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0018" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0019" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0020" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0021" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0022" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0023" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0024" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0025" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0026" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0027" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0028" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0029" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0030" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0031" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0032" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0033" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0034" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0035" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0036" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0037" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0038" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0039" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0040" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0041" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0042" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0043" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0044" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0045" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0046" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0047" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0048" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0049" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0050" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0051" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0052" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0053" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0054" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0055" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0056" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0057" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0058" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0059" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0060" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0061" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0062" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0063" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0064" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0065" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0066" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0067" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0068" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0069" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0070" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0071" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0072" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0073" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0074" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0075" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0076" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0077" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0078" x="1364" y="1115" width="682" height="507"/>
+	<SubTexture name="SAEL sad0079" x="1364" y="1115" width="682" height="507"/>
+</TextureAtlas>

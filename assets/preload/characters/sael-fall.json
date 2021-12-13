@@ -1,0 +1,30 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "SAEL Duck",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/saelRooftop",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sael",
+	"iconcolor": "FFf1bc8a",
+	"flip_x": false,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
